@@ -1,0 +1,11 @@
+C:\Users\orcun\OneDrive\Masaüstü\c# try\try4\try4\bin\Debug\try4.exe.config
+C:\Users\orcun\OneDrive\Masaüstü\c# try\try4\try4\bin\Debug\try4.exe
+C:\Users\orcun\OneDrive\Masaüstü\c# try\try4\try4\bin\Debug\try4.pdb
+C:\Users\orcun\OneDrive\Masaüstü\c# try\try4\try4\obj\Debug\try4.csproj.AssemblyReference.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# try\try4\try4\obj\Debug\try4.csproj.SuggestedBindingRedirects.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# try\try4\try4\obj\Debug\try4.Form1.resources
+C:\Users\orcun\OneDrive\Masaüstü\c# try\try4\try4\obj\Debug\try4.Properties.Resources.resources
+C:\Users\orcun\OneDrive\Masaüstü\c# try\try4\try4\obj\Debug\try4.csproj.GenerateResource.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# try\try4\try4\obj\Debug\try4.csproj.CoreCompileInputs.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# try\try4\try4\obj\Debug\try4.exe
+C:\Users\orcun\OneDrive\Masaüstü\c# try\try4\try4\obj\Debug\try4.pdb

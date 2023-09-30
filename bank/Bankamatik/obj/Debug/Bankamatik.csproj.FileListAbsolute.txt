@@ -1,0 +1,11 @@
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\Bankamatik\Bankamatik\bin\Debug\Bankamatik.exe.config
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\Bankamatik\Bankamatik\bin\Debug\Bankamatik.exe
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\Bankamatik\Bankamatik\bin\Debug\Bankamatik.pdb
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\Bankamatik\Bankamatik\obj\Debug\Bankamatik.csproj.AssemblyReference.cache
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\Bankamatik\Bankamatik\obj\Debug\Bankamatik.csproj.SuggestedBindingRedirects.cache
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\Bankamatik\Bankamatik\obj\Debug\Bankamatik.Form1.resources
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\Bankamatik\Bankamatik\obj\Debug\Bankamatik.Properties.Resources.resources
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\Bankamatik\Bankamatik\obj\Debug\Bankamatik.csproj.GenerateResource.cache
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\Bankamatik\Bankamatik\obj\Debug\Bankamatik.csproj.CoreCompileInputs.cache
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\Bankamatik\Bankamatik\obj\Debug\Bankamatik.exe
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\Bankamatik\Bankamatik\obj\Debug\Bankamatik.pdb

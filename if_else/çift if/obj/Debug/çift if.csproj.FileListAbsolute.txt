@@ -1,0 +1,11 @@
+C:\Users\orcun\OneDrive\Masaüstü\c# try\çift if\çift if\bin\Debug\çift if.exe.config
+C:\Users\orcun\OneDrive\Masaüstü\c# try\çift if\çift if\bin\Debug\çift if.exe
+C:\Users\orcun\OneDrive\Masaüstü\c# try\çift if\çift if\bin\Debug\çift if.pdb
+C:\Users\orcun\OneDrive\Masaüstü\c# try\çift if\çift if\obj\Debug\çift if.csproj.AssemblyReference.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# try\çift if\çift if\obj\Debug\çift if.csproj.SuggestedBindingRedirects.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# try\çift if\çift if\obj\Debug\çift_if.Form1.resources
+C:\Users\orcun\OneDrive\Masaüstü\c# try\çift if\çift if\obj\Debug\çift_if.Properties.Resources.resources
+C:\Users\orcun\OneDrive\Masaüstü\c# try\çift if\çift if\obj\Debug\çift if.csproj.GenerateResource.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# try\çift if\çift if\obj\Debug\çift if.csproj.CoreCompileInputs.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# try\çift if\çift if\obj\Debug\çift if.exe
+C:\Users\orcun\OneDrive\Masaüstü\c# try\çift if\çift if\obj\Debug\çift if.pdb

@@ -1,0 +1,11 @@
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\dosya ekleme\dosya ekleme\bin\Debug\dosya ekleme.exe.config
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\dosya ekleme\dosya ekleme\bin\Debug\dosya ekleme.exe
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\dosya ekleme\dosya ekleme\bin\Debug\dosya ekleme.pdb
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\dosya ekleme\dosya ekleme\obj\Debug\dosya ekleme.csproj.AssemblyReference.cache
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\dosya ekleme\dosya ekleme\obj\Debug\dosya ekleme.csproj.SuggestedBindingRedirects.cache
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\dosya ekleme\dosya ekleme\obj\Debug\dosya_ekleme.Form1.resources
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\dosya ekleme\dosya ekleme\obj\Debug\dosya_ekleme.Properties.Resources.resources
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\dosya ekleme\dosya ekleme\obj\Debug\dosya ekleme.csproj.GenerateResource.cache
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\dosya ekleme\dosya ekleme\obj\Debug\dosya ekleme.csproj.CoreCompileInputs.cache
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\dosya ekleme\dosya ekleme\obj\Debug\dosya ekleme.exe
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\dosya ekleme\dosya ekleme\obj\Debug\dosya ekleme.pdb

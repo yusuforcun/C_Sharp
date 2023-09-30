@@ -1,0 +1,15 @@
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\npt giriş\npt giriş\bin\Debug\net6.0\npt giriş.exe
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\npt giriş\npt giriş\bin\Debug\net6.0\npt giriş.deps.json
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\npt giriş\npt giriş\bin\Debug\net6.0\npt giriş.runtimeconfig.json
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\npt giriş\npt giriş\bin\Debug\net6.0\npt giriş.dll
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\npt giriş\npt giriş\bin\Debug\net6.0\npt giriş.pdb
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\npt giriş\npt giriş\obj\Debug\net6.0\npt giriş.csproj.AssemblyReference.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\npt giriş\npt giriş\obj\Debug\net6.0\npt giriş.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\npt giriş\npt giriş\obj\Debug\net6.0\npt giriş.AssemblyInfoInputs.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\npt giriş\npt giriş\obj\Debug\net6.0\npt giriş.AssemblyInfo.cs
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\npt giriş\npt giriş\obj\Debug\net6.0\npt giriş.csproj.CoreCompileInputs.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\npt giriş\npt giriş\obj\Debug\net6.0\npt giriş.dll
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\npt giriş\npt giriş\obj\Debug\net6.0\refint\npt giriş.dll
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\npt giriş\npt giriş\obj\Debug\net6.0\npt giriş.pdb
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\npt giriş\npt giriş\obj\Debug\net6.0\npt giriş.genruntimeconfig.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\npt giriş\npt giriş\obj\Debug\net6.0\ref\npt giriş.dll

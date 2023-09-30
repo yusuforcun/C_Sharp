@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "arrays calısma/1.0.0": {
+        "runtime": {
+          "arrays calısma.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "arrays calısma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

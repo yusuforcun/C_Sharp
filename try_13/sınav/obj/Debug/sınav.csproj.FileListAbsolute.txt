@@ -1,0 +1,11 @@
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\sınav\sınav\bin\Debug\sınav.exe.config
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\sınav\sınav\bin\Debug\sınav.exe
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\sınav\sınav\bin\Debug\sınav.pdb
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\sınav\sınav\obj\Debug\sınav.csproj.AssemblyReference.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\sınav\sınav\obj\Debug\sınav.csproj.SuggestedBindingRedirects.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\sınav\sınav\obj\Debug\sınav.Form1.resources
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\sınav\sınav\obj\Debug\sınav.Properties.Resources.resources
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\sınav\sınav\obj\Debug\sınav.csproj.GenerateResource.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\sınav\sınav\obj\Debug\sınav.csproj.CoreCompileInputs.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\sınav\sınav\obj\Debug\sınav.exe
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\sınav\sınav\obj\Debug\sınav.pdb

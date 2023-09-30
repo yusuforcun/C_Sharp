@@ -1,0 +1,11 @@
+C:\Users\orcun\OneDrive\Masaüstü\c# try\listboxdowgile\listboxdowgile\bin\Debug\listboxdowgile.exe.config
+C:\Users\orcun\OneDrive\Masaüstü\c# try\listboxdowgile\listboxdowgile\bin\Debug\listboxdowgile.exe
+C:\Users\orcun\OneDrive\Masaüstü\c# try\listboxdowgile\listboxdowgile\bin\Debug\listboxdowgile.pdb
+C:\Users\orcun\OneDrive\Masaüstü\c# try\listboxdowgile\listboxdowgile\obj\Debug\listboxdowgile.csproj.AssemblyReference.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# try\listboxdowgile\listboxdowgile\obj\Debug\listboxdowgile.csproj.SuggestedBindingRedirects.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# try\listboxdowgile\listboxdowgile\obj\Debug\listboxdowgile.Form1.resources
+C:\Users\orcun\OneDrive\Masaüstü\c# try\listboxdowgile\listboxdowgile\obj\Debug\listboxdowgile.Properties.Resources.resources
+C:\Users\orcun\OneDrive\Masaüstü\c# try\listboxdowgile\listboxdowgile\obj\Debug\listboxdowgile.csproj.GenerateResource.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# try\listboxdowgile\listboxdowgile\obj\Debug\listboxdowgile.csproj.CoreCompileInputs.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# try\listboxdowgile\listboxdowgile\obj\Debug\listboxdowgile.exe
+C:\Users\orcun\OneDrive\Masaüstü\c# try\listboxdowgile\listboxdowgile\obj\Debug\listboxdowgile.pdb

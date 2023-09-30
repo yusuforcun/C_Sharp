@@ -1,0 +1,11 @@
+C:\Users\orcun\OneDrive\Masaüstü\c# try\do while\do while\bin\Debug\do while.exe.config
+C:\Users\orcun\OneDrive\Masaüstü\c# try\do while\do while\bin\Debug\do while.exe
+C:\Users\orcun\OneDrive\Masaüstü\c# try\do while\do while\bin\Debug\do while.pdb
+C:\Users\orcun\OneDrive\Masaüstü\c# try\do while\do while\obj\Debug\do while.csproj.AssemblyReference.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# try\do while\do while\obj\Debug\do while.csproj.SuggestedBindingRedirects.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# try\do while\do while\obj\Debug\do_while.Form1.resources
+C:\Users\orcun\OneDrive\Masaüstü\c# try\do while\do while\obj\Debug\do_while.Properties.Resources.resources
+C:\Users\orcun\OneDrive\Masaüstü\c# try\do while\do while\obj\Debug\do while.csproj.GenerateResource.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# try\do while\do while\obj\Debug\do while.csproj.CoreCompileInputs.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# try\do while\do while\obj\Debug\do while.exe
+C:\Users\orcun\OneDrive\Masaüstü\c# try\do while\do while\obj\Debug\do while.pdb

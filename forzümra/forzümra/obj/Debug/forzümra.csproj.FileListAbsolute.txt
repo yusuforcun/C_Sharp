@@ -1,0 +1,11 @@
+C:\Users\orcun\OneDrive\Masaüstü\c# try\forzümra\forzümra\bin\Debug\forzümra.exe.config
+C:\Users\orcun\OneDrive\Masaüstü\c# try\forzümra\forzümra\bin\Debug\forzümra.exe
+C:\Users\orcun\OneDrive\Masaüstü\c# try\forzümra\forzümra\bin\Debug\forzümra.pdb
+C:\Users\orcun\OneDrive\Masaüstü\c# try\forzümra\forzümra\obj\Debug\forzümra.csproj.AssemblyReference.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# try\forzümra\forzümra\obj\Debug\forzümra.csproj.SuggestedBindingRedirects.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# try\forzümra\forzümra\obj\Debug\forzümra.Form1.resources
+C:\Users\orcun\OneDrive\Masaüstü\c# try\forzümra\forzümra\obj\Debug\forzümra.Properties.Resources.resources
+C:\Users\orcun\OneDrive\Masaüstü\c# try\forzümra\forzümra\obj\Debug\forzümra.csproj.GenerateResource.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# try\forzümra\forzümra\obj\Debug\forzümra.csproj.CoreCompileInputs.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# try\forzümra\forzümra\obj\Debug\forzümra.exe
+C:\Users\orcun\OneDrive\Masaüstü\c# try\forzümra\forzümra\obj\Debug\forzümra.pdb

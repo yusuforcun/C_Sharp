@@ -1,0 +1,11 @@
+C:\Users\orcun\OneDrive\Masaüstü\c# try\trofgv\trofgv\bin\Debug\trofgv.exe.config
+C:\Users\orcun\OneDrive\Masaüstü\c# try\trofgv\trofgv\bin\Debug\trofgv.exe
+C:\Users\orcun\OneDrive\Masaüstü\c# try\trofgv\trofgv\bin\Debug\trofgv.pdb
+C:\Users\orcun\OneDrive\Masaüstü\c# try\trofgv\trofgv\obj\Debug\trofgv.csproj.AssemblyReference.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# try\trofgv\trofgv\obj\Debug\trofgv.csproj.SuggestedBindingRedirects.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# try\trofgv\trofgv\obj\Debug\trofgv.Form1.resources
+C:\Users\orcun\OneDrive\Masaüstü\c# try\trofgv\trofgv\obj\Debug\trofgv.Properties.Resources.resources
+C:\Users\orcun\OneDrive\Masaüstü\c# try\trofgv\trofgv\obj\Debug\trofgv.csproj.GenerateResource.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# try\trofgv\trofgv\obj\Debug\trofgv.csproj.CoreCompileInputs.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# try\trofgv\trofgv\obj\Debug\trofgv.exe
+C:\Users\orcun\OneDrive\Masaüstü\c# try\trofgv\trofgv\obj\Debug\trofgv.pdb

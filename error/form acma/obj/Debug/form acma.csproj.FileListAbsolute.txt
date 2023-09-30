@@ -1,0 +1,22 @@
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\form acma\form acma\bin\Debug\form acma.exe.config
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\form acma\form acma\bin\Debug\form acma.exe
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\form acma\form acma\bin\Debug\form acma.pdb
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\form acma\form acma\obj\Debug\form acma.csproj.AssemblyReference.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\form acma\form acma\obj\Debug\form acma.csproj.SuggestedBindingRedirects.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\form acma\form acma\obj\Debug\form_acma.Form1.resources
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\form acma\form acma\obj\Debug\form_acma.Properties.Resources.resources
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\form acma\form acma\obj\Debug\form acma.csproj.GenerateResource.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\form acma\form acma\obj\Debug\form acma.csproj.CoreCompileInputs.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\form acma\form acma\obj\Debug\form acma.exe
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\form acma\form acma\obj\Debug\form acma.pdb
+C:\Users\orcun\OneDrive\Masaüstü\CODE\error\form acma\bin\Debug\form acma.exe.config
+C:\Users\orcun\OneDrive\Masaüstü\CODE\error\form acma\bin\Debug\form acma.exe
+C:\Users\orcun\OneDrive\Masaüstü\CODE\error\form acma\bin\Debug\form acma.pdb
+C:\Users\orcun\OneDrive\Masaüstü\CODE\error\form acma\obj\Debug\form acma.csproj.AssemblyReference.cache
+C:\Users\orcun\OneDrive\Masaüstü\CODE\error\form acma\obj\Debug\form acma.csproj.SuggestedBindingRedirects.cache
+C:\Users\orcun\OneDrive\Masaüstü\CODE\error\form acma\obj\Debug\form_acma.Form1.resources
+C:\Users\orcun\OneDrive\Masaüstü\CODE\error\form acma\obj\Debug\form_acma.Properties.Resources.resources
+C:\Users\orcun\OneDrive\Masaüstü\CODE\error\form acma\obj\Debug\form acma.csproj.GenerateResource.cache
+C:\Users\orcun\OneDrive\Masaüstü\CODE\error\form acma\obj\Debug\form acma.csproj.CoreCompileInputs.cache
+C:\Users\orcun\OneDrive\Masaüstü\CODE\error\form acma\obj\Debug\form acma.exe
+C:\Users\orcun\OneDrive\Masaüstü\CODE\error\form acma\obj\Debug\form acma.pdb

@@ -1,0 +1,15 @@
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\ckonsol\ckonsol\bin\Debug\net6.0\ckonsol.exe
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\ckonsol\ckonsol\bin\Debug\net6.0\ckonsol.deps.json
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\ckonsol\ckonsol\bin\Debug\net6.0\ckonsol.runtimeconfig.json
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\ckonsol\ckonsol\bin\Debug\net6.0\ckonsol.dll
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\ckonsol\ckonsol\bin\Debug\net6.0\ckonsol.pdb
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\ckonsol\ckonsol\obj\Debug\net6.0\ckonsol.csproj.AssemblyReference.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\ckonsol\ckonsol\obj\Debug\net6.0\ckonsol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\ckonsol\ckonsol\obj\Debug\net6.0\ckonsol.AssemblyInfoInputs.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\ckonsol\ckonsol\obj\Debug\net6.0\ckonsol.AssemblyInfo.cs
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\ckonsol\ckonsol\obj\Debug\net6.0\ckonsol.csproj.CoreCompileInputs.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\ckonsol\ckonsol\obj\Debug\net6.0\ckonsol.dll
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\ckonsol\ckonsol\obj\Debug\net6.0\refint\ckonsol.dll
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\ckonsol\ckonsol\obj\Debug\net6.0\ckonsol.pdb
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\ckonsol\ckonsol\obj\Debug\net6.0\ckonsol.genruntimeconfig.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\ckonsol\ckonsol\obj\Debug\net6.0\ref\ckonsol.dll

@@ -1,0 +1,11 @@
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\26.22\26.22\bin\Debug\26.22.exe.config
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\26.22\26.22\bin\Debug\26.22.exe
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\26.22\26.22\bin\Debug\26.22.pdb
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\26.22\26.22\obj\Debug\26.22.csproj.AssemblyReference.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\26.22\26.22\obj\Debug\26.22.csproj.SuggestedBindingRedirects.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\26.22\26.22\obj\Debug\_26._22.Form1.resources
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\26.22\26.22\obj\Debug\_26._22.Properties.Resources.resources
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\26.22\26.22\obj\Debug\26.22.csproj.GenerateResource.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\26.22\26.22\obj\Debug\26.22.csproj.CoreCompileInputs.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\26.22\26.22\obj\Debug\26.22.exe
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\26.22\26.22\obj\Debug\26.22.pdb

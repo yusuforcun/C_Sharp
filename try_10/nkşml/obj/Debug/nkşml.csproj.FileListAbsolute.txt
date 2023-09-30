@@ -1,0 +1,3 @@
+C:\Users\orcun\source\repos\nkşml\nkşml\obj\Debug\nkşml.csproj.AssemblyReference.cache
+C:\Users\orcun\source\repos\nkşml\nkşml\obj\Debug\nkşml.csproj.SuggestedBindingRedirects.cache
+C:\Users\orcun\source\repos\nkşml\nkşml\obj\Debug\nkşml.csproj.CoreCompileInputs.cache

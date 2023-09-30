@@ -1,0 +1,11 @@
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\procces bar\procces bar\bin\Debug\procces bar.exe.config
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\procces bar\procces bar\bin\Debug\procces bar.exe
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\procces bar\procces bar\bin\Debug\procces bar.pdb
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\procces bar\procces bar\obj\Debug\procces bar.csproj.AssemblyReference.cache
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\procces bar\procces bar\obj\Debug\procces bar.csproj.SuggestedBindingRedirects.cache
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\procces bar\procces bar\obj\Debug\procces_bar.Form1.resources
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\procces bar\procces bar\obj\Debug\procces_bar.Properties.Resources.resources
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\procces bar\procces bar\obj\Debug\procces bar.csproj.GenerateResource.cache
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\procces bar\procces bar\obj\Debug\procces bar.csproj.CoreCompileInputs.cache
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\procces bar\procces bar\obj\Debug\procces bar.exe
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\procces bar\procces bar\obj\Debug\procces bar.pdb

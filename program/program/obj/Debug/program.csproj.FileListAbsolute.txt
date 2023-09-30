@@ -1,0 +1,14 @@
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# real\program\program\bin\Debug\program.exe.config
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# real\program\program\bin\Debug\program.exe
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# real\program\program\bin\Debug\program.pdb
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# real\program\program\obj\Debug\program.csproj.AssemblyReference.cache
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# real\program\program\obj\Debug\program.csproj.SuggestedBindingRedirects.cache
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# real\program\program\obj\Debug\program.Form1.resources
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# real\program\program\obj\Debug\program.Properties.Resources.resources
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# real\program\program\obj\Debug\program.csproj.GenerateResource.cache
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# real\program\program\obj\Debug\program.csproj.CoreCompileInputs.cache
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# real\program\program\obj\Debug\program.exe
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# real\program\program\obj\Debug\program.pdb
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# real\program\program\obj\Debug\program.Form2.resources
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# real\program\program\obj\Debug\program.Form3.resources
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# real\program\program\obj\Debug\program.Form4.resources

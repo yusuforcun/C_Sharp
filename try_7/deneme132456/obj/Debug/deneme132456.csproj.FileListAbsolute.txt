@@ -1,0 +1,11 @@
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\deneme132456\deneme132456\bin\Debug\deneme132456.exe.config
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\deneme132456\deneme132456\bin\Debug\deneme132456.exe
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\deneme132456\deneme132456\bin\Debug\deneme132456.pdb
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\deneme132456\deneme132456\obj\Debug\deneme132456.csproj.AssemblyReference.cache
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\deneme132456\deneme132456\obj\Debug\deneme132456.csproj.SuggestedBindingRedirects.cache
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\deneme132456\deneme132456\obj\Debug\deneme132456.Form1.resources
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\deneme132456\deneme132456\obj\Debug\deneme132456.Properties.Resources.resources
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\deneme132456\deneme132456\obj\Debug\deneme132456.csproj.GenerateResource.cache
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\deneme132456\deneme132456\obj\Debug\deneme132456.csproj.CoreCompileInputs.cache
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\deneme132456\deneme132456\obj\Debug\deneme132456.exe
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\deneme132456\deneme132456\obj\Debug\deneme132456.pdb

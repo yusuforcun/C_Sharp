@@ -1,0 +1,11 @@
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\wasdefrg\wasdefrg\bin\Debug\wasdefrg.exe.config
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\wasdefrg\wasdefrg\bin\Debug\wasdefrg.exe
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\wasdefrg\wasdefrg\bin\Debug\wasdefrg.pdb
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\wasdefrg\wasdefrg\obj\Debug\wasdefrg.csproj.AssemblyReference.cache
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\wasdefrg\wasdefrg\obj\Debug\wasdefrg.csproj.SuggestedBindingRedirects.cache
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\wasdefrg\wasdefrg\obj\Debug\wasdefrg.Form1.resources
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\wasdefrg\wasdefrg\obj\Debug\wasdefrg.Properties.Resources.resources
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\wasdefrg\wasdefrg\obj\Debug\wasdefrg.csproj.GenerateResource.cache
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\wasdefrg\wasdefrg\obj\Debug\wasdefrg.csproj.CoreCompileInputs.cache
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\wasdefrg\wasdefrg\obj\Debug\wasdefrg.exe
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\wasdefrg\wasdefrg\obj\Debug\wasdefrg.pdb

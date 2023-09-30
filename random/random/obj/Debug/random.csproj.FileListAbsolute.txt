@@ -1,0 +1,11 @@
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\random\random\bin\Debug\random.exe.config
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\random\random\bin\Debug\random.exe
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\random\random\bin\Debug\random.pdb
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\random\random\obj\Debug\random.csproj.AssemblyReference.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\random\random\obj\Debug\random.csproj.SuggestedBindingRedirects.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\random\random\obj\Debug\random.Form1.resources
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\random\random\obj\Debug\random.Properties.Resources.resources
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\random\random\obj\Debug\random.csproj.GenerateResource.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\random\random\obj\Debug\random.csproj.CoreCompileInputs.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\random\random\obj\Debug\random.exe
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\random\random\obj\Debug\random.pdb

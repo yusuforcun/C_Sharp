@@ -1,0 +1,15 @@
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\sınavicin\sınavicin\bin\Debug\net7.0\sınavicin.exe
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\sınavicin\sınavicin\bin\Debug\net7.0\sınavicin.deps.json
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\sınavicin\sınavicin\bin\Debug\net7.0\sınavicin.runtimeconfig.json
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\sınavicin\sınavicin\bin\Debug\net7.0\sınavicin.dll
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\sınavicin\sınavicin\bin\Debug\net7.0\sınavicin.pdb
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\sınavicin\sınavicin\obj\Debug\net7.0\sınavicin.csproj.AssemblyReference.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\sınavicin\sınavicin\obj\Debug\net7.0\sınavicin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\sınavicin\sınavicin\obj\Debug\net7.0\sınavicin.AssemblyInfoInputs.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\sınavicin\sınavicin\obj\Debug\net7.0\sınavicin.AssemblyInfo.cs
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\sınavicin\sınavicin\obj\Debug\net7.0\sınavicin.csproj.CoreCompileInputs.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\sınavicin\sınavicin\obj\Debug\net7.0\sınavicin.dll
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\sınavicin\sınavicin\obj\Debug\net7.0\refint\sınavicin.dll
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\sınavicin\sınavicin\obj\Debug\net7.0\sınavicin.pdb
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\sınavicin\sınavicin\obj\Debug\net7.0\sınavicin.genruntimeconfig.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\sınavicin\sınavicin\obj\Debug\net7.0\ref\sınavicin.dll

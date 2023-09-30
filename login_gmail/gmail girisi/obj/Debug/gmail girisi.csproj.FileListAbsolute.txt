@@ -1,0 +1,25 @@
+C:\Users\orcun\OneDrive\Masaüstü\c# try\gmail girisi\gmail girisi\bin\Debug\gmail girisi.exe.config
+C:\Users\orcun\OneDrive\Masaüstü\c# try\gmail girisi\gmail girisi\bin\Debug\gmail girisi.exe
+C:\Users\orcun\OneDrive\Masaüstü\c# try\gmail girisi\gmail girisi\bin\Debug\gmail girisi.pdb
+C:\Users\orcun\OneDrive\Masaüstü\c# try\gmail girisi\gmail girisi\obj\Debug\gmail girisi.csproj.AssemblyReference.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# try\gmail girisi\gmail girisi\obj\Debug\gmail girisi.csproj.SuggestedBindingRedirects.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# try\gmail girisi\gmail girisi\obj\Debug\gmail_girisi.Form1.resources
+C:\Users\orcun\OneDrive\Masaüstü\c# try\gmail girisi\gmail girisi\obj\Debug\gmail_girisi.Properties.Resources.resources
+C:\Users\orcun\OneDrive\Masaüstü\c# try\gmail girisi\gmail girisi\obj\Debug\gmail girisi.csproj.GenerateResource.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# try\gmail girisi\gmail girisi\obj\Debug\gmail girisi.csproj.CoreCompileInputs.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# try\gmail girisi\gmail girisi\obj\Debug\gmail girisi.exe
+C:\Users\orcun\OneDrive\Masaüstü\c# try\gmail girisi\gmail girisi\obj\Debug\gmail girisi.pdb
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\gmail girisi\gmail girisi\bin\Debug\gmail girisi.exe.config
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\gmail girisi\gmail girisi\bin\Debug\gmail girisi.exe
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\gmail girisi\gmail girisi\bin\Debug\gmail girisi.pdb
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\gmail girisi\gmail girisi\obj\Debug\gmail girisi.csproj.AssemblyReference.cache
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\gmail girisi\gmail girisi\obj\Debug\gmail girisi.csproj.SuggestedBindingRedirects.cache
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\gmail girisi\gmail girisi\obj\Debug\gmail_girisi.Form1.resources
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\gmail girisi\gmail girisi\obj\Debug\gmail_girisi.Properties.Resources.resources
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\gmail girisi\gmail girisi\obj\Debug\gmail girisi.csproj.GenerateResource.cache
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\gmail girisi\gmail girisi\obj\Debug\gmail girisi.csproj.CoreCompileInputs.cache
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\gmail girisi\gmail girisi\obj\Debug\gmail girisi.exe
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\gmail girisi\gmail girisi\obj\Debug\gmail girisi.pdb
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\gmail girisi\gmail girisi\obj\Debug\gmail_girisi.Form2.resources
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\gmail girisi\gmail girisi\obj\Debug\gmail_girisi.Form3.resources
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\gmail girisi\gmail girisi\obj\Debug\gmail_girisi.Form4.resources

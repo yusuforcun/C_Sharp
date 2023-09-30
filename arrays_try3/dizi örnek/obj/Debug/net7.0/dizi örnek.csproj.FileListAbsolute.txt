@@ -1,0 +1,30 @@
+C:\Users\orcun\source\repos\dizi örnek\dizi örnek\bin\Debug\net7.0\dizi örnek.exe
+C:\Users\orcun\source\repos\dizi örnek\dizi örnek\bin\Debug\net7.0\dizi örnek.deps.json
+C:\Users\orcun\source\repos\dizi örnek\dizi örnek\bin\Debug\net7.0\dizi örnek.runtimeconfig.json
+C:\Users\orcun\source\repos\dizi örnek\dizi örnek\bin\Debug\net7.0\dizi örnek.dll
+C:\Users\orcun\source\repos\dizi örnek\dizi örnek\bin\Debug\net7.0\dizi örnek.pdb
+C:\Users\orcun\source\repos\dizi örnek\dizi örnek\obj\Debug\net7.0\dizi örnek.csproj.AssemblyReference.cache
+C:\Users\orcun\source\repos\dizi örnek\dizi örnek\obj\Debug\net7.0\dizi örnek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orcun\source\repos\dizi örnek\dizi örnek\obj\Debug\net7.0\dizi örnek.AssemblyInfoInputs.cache
+C:\Users\orcun\source\repos\dizi örnek\dizi örnek\obj\Debug\net7.0\dizi örnek.AssemblyInfo.cs
+C:\Users\orcun\source\repos\dizi örnek\dizi örnek\obj\Debug\net7.0\dizi örnek.csproj.CoreCompileInputs.cache
+C:\Users\orcun\source\repos\dizi örnek\dizi örnek\obj\Debug\net7.0\dizi örnek.dll
+C:\Users\orcun\source\repos\dizi örnek\dizi örnek\obj\Debug\net7.0\refint\dizi örnek.dll
+C:\Users\orcun\source\repos\dizi örnek\dizi örnek\obj\Debug\net7.0\dizi örnek.pdb
+C:\Users\orcun\source\repos\dizi örnek\dizi örnek\obj\Debug\net7.0\dizi örnek.genruntimeconfig.cache
+C:\Users\orcun\source\repos\dizi örnek\dizi örnek\obj\Debug\net7.0\ref\dizi örnek.dll
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\dizi örnek\dizi örnek\bin\Debug\net7.0\dizi örnek.exe
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\dizi örnek\dizi örnek\bin\Debug\net7.0\dizi örnek.deps.json
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\dizi örnek\dizi örnek\bin\Debug\net7.0\dizi örnek.runtimeconfig.json
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\dizi örnek\dizi örnek\bin\Debug\net7.0\dizi örnek.dll
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\dizi örnek\dizi örnek\bin\Debug\net7.0\dizi örnek.pdb
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\dizi örnek\dizi örnek\obj\Debug\net7.0\dizi örnek.csproj.AssemblyReference.cache
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\dizi örnek\dizi örnek\obj\Debug\net7.0\dizi örnek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\dizi örnek\dizi örnek\obj\Debug\net7.0\dizi örnek.AssemblyInfoInputs.cache
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\dizi örnek\dizi örnek\obj\Debug\net7.0\dizi örnek.AssemblyInfo.cs
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\dizi örnek\dizi örnek\obj\Debug\net7.0\dizi örnek.csproj.CoreCompileInputs.cache
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\dizi örnek\dizi örnek\obj\Debug\net7.0\dizi örnek.dll
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\dizi örnek\dizi örnek\obj\Debug\net7.0\refint\dizi örnek.dll
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\dizi örnek\dizi örnek\obj\Debug\net7.0\dizi örnek.pdb
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\dizi örnek\dizi örnek\obj\Debug\net7.0\dizi örnek.genruntimeconfig.cache
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\dizi örnek\dizi örnek\obj\Debug\net7.0\ref\dizi örnek.dll

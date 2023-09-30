@@ -1,0 +1,11 @@
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\listbox\listbox\bin\Debug\listbox.exe.config
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\listbox\listbox\bin\Debug\listbox.exe
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\listbox\listbox\bin\Debug\listbox.pdb
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\listbox\listbox\obj\Debug\listbox.csproj.AssemblyReference.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\listbox\listbox\obj\Debug\listbox.csproj.SuggestedBindingRedirects.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\listbox\listbox\obj\Debug\listbox.Form1.resources
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\listbox\listbox\obj\Debug\listbox.Properties.Resources.resources
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\listbox\listbox\obj\Debug\listbox.csproj.GenerateResource.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\listbox\listbox\obj\Debug\listbox.csproj.CoreCompileInputs.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\listbox\listbox\obj\Debug\listbox.exe
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\listbox\listbox\obj\Debug\listbox.pdb

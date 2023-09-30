@@ -1,0 +1,11 @@
+C:\Users\orcun\OneDrive\Masaüstü\c# try\for deneme\for deneme\bin\Debug\for deneme.exe.config
+C:\Users\orcun\OneDrive\Masaüstü\c# try\for deneme\for deneme\bin\Debug\for deneme.exe
+C:\Users\orcun\OneDrive\Masaüstü\c# try\for deneme\for deneme\bin\Debug\for deneme.pdb
+C:\Users\orcun\OneDrive\Masaüstü\c# try\for deneme\for deneme\obj\Debug\for deneme.csproj.AssemblyReference.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# try\for deneme\for deneme\obj\Debug\for deneme.csproj.SuggestedBindingRedirects.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# try\for deneme\for deneme\obj\Debug\for_deneme.Form1.resources
+C:\Users\orcun\OneDrive\Masaüstü\c# try\for deneme\for deneme\obj\Debug\for_deneme.Properties.Resources.resources
+C:\Users\orcun\OneDrive\Masaüstü\c# try\for deneme\for deneme\obj\Debug\for deneme.csproj.GenerateResource.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# try\for deneme\for deneme\obj\Debug\for deneme.csproj.CoreCompileInputs.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# try\for deneme\for deneme\obj\Debug\for deneme.exe
+C:\Users\orcun\OneDrive\Masaüstü\c# try\for deneme\for deneme\obj\Debug\for deneme.pdb

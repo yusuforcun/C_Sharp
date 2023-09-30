@@ -1,0 +1,11 @@
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\foreach\foreach\bin\Debug\@foreach.exe.config
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\foreach\foreach\bin\Debug\@foreach.exe
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\foreach\foreach\bin\Debug\@foreach.pdb
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\foreach\foreach\obj\Debug\foreach.csproj.AssemblyReference.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\foreach\foreach\obj\Debug\foreach.csproj.SuggestedBindingRedirects.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\foreach\foreach\obj\Debug\foreach.Form1.resources
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\foreach\foreach\obj\Debug\foreach.Properties.Resources.resources
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\foreach\foreach\obj\Debug\foreach.csproj.GenerateResource.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\foreach\foreach\obj\Debug\foreach.csproj.CoreCompileInputs.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\foreach\foreach\obj\Debug\@foreach.exe
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\foreach\foreach\obj\Debug\@foreach.pdb

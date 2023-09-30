@@ -1,0 +1,17 @@
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\metin edütörü\metin edütörü\bin\Debug\net7.0-windows\metin edütörü.exe
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\metin edütörü\metin edütörü\bin\Debug\net7.0-windows\metin edütörü.deps.json
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\metin edütörü\metin edütörü\bin\Debug\net7.0-windows\metin edütörü.runtimeconfig.json
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\metin edütörü\metin edütörü\bin\Debug\net7.0-windows\metin edütörü.dll
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\metin edütörü\metin edütörü\bin\Debug\net7.0-windows\metin edütörü.pdb
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\metin edütörü\metin edütörü\obj\Debug\net7.0-windows\metin edütörü.csproj.AssemblyReference.cache
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\metin edütörü\metin edütörü\obj\Debug\net7.0-windows\metin_edütörü.Form1.resources
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\metin edütörü\metin edütörü\obj\Debug\net7.0-windows\metin edütörü.csproj.GenerateResource.cache
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\metin edütörü\metin edütörü\obj\Debug\net7.0-windows\metin edütörü.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\metin edütörü\metin edütörü\obj\Debug\net7.0-windows\metin edütörü.AssemblyInfoInputs.cache
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\metin edütörü\metin edütörü\obj\Debug\net7.0-windows\metin edütörü.AssemblyInfo.cs
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\metin edütörü\metin edütörü\obj\Debug\net7.0-windows\metin edütörü.csproj.CoreCompileInputs.cache
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\metin edütörü\metin edütörü\obj\Debug\net7.0-windows\metin edütörü.dll
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\metin edütörü\metin edütörü\obj\Debug\net7.0-windows\refint\metin edütörü.dll
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\metin edütörü\metin edütörü\obj\Debug\net7.0-windows\metin edütörü.pdb
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\metin edütörü\metin edütörü\obj\Debug\net7.0-windows\metin edütörü.genruntimeconfig.cache
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\metin edütörü\metin edütörü\obj\Debug\net7.0-windows\ref\metin edütörü.dll

@@ -1,0 +1,12 @@
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\giriş\giriş\bin\Debug\giriş.exe.config
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\giriş\giriş\bin\Debug\giriş.exe
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\giriş\giriş\bin\Debug\giriş.pdb
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\giriş\giriş\obj\Debug\giriş.csproj.AssemblyReference.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\giriş\giriş\obj\Debug\giriş.csproj.SuggestedBindingRedirects.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\giriş\giriş\obj\Debug\giriş.Form1.resources
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\giriş\giriş\obj\Debug\giriş.Properties.Resources.resources
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\giriş\giriş\obj\Debug\giriş.csproj.GenerateResource.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\giriş\giriş\obj\Debug\giriş.csproj.CoreCompileInputs.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\giriş\giriş\obj\Debug\giriş.exe
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\giriş\giriş\obj\Debug\giriş.pdb
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\giriş\giriş\obj\Debug\giriş.Form2.resources

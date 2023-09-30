@@ -1,0 +1,11 @@
+C:\Users\orcun\OneDrive\Masaüstü\c# try\büyük sayı bulma\büyük sayı bulma\bin\Debug\büyük sayı bulma.exe.config
+C:\Users\orcun\OneDrive\Masaüstü\c# try\büyük sayı bulma\büyük sayı bulma\bin\Debug\büyük sayı bulma.exe
+C:\Users\orcun\OneDrive\Masaüstü\c# try\büyük sayı bulma\büyük sayı bulma\bin\Debug\büyük sayı bulma.pdb
+C:\Users\orcun\OneDrive\Masaüstü\c# try\büyük sayı bulma\büyük sayı bulma\obj\Debug\büyük sayı bulma.csproj.AssemblyReference.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# try\büyük sayı bulma\büyük sayı bulma\obj\Debug\büyük sayı bulma.csproj.SuggestedBindingRedirects.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# try\büyük sayı bulma\büyük sayı bulma\obj\Debug\büyük_sayı_bulma.Form1.resources
+C:\Users\orcun\OneDrive\Masaüstü\c# try\büyük sayı bulma\büyük sayı bulma\obj\Debug\büyük_sayı_bulma.Properties.Resources.resources
+C:\Users\orcun\OneDrive\Masaüstü\c# try\büyük sayı bulma\büyük sayı bulma\obj\Debug\büyük sayı bulma.csproj.GenerateResource.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# try\büyük sayı bulma\büyük sayı bulma\obj\Debug\büyük sayı bulma.csproj.CoreCompileInputs.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# try\büyük sayı bulma\büyük sayı bulma\obj\Debug\büyük sayı bulma.exe
+C:\Users\orcun\OneDrive\Masaüstü\c# try\büyük sayı bulma\büyük sayı bulma\obj\Debug\büyük sayı bulma.pdb

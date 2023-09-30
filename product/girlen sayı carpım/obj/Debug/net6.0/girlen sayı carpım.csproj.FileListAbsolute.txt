@@ -1,0 +1,15 @@
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\girlen sayı carpım\girlen sayı carpım\bin\Debug\net6.0\girlen sayı carpım.exe
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\girlen sayı carpım\girlen sayı carpım\bin\Debug\net6.0\girlen sayı carpım.deps.json
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\girlen sayı carpım\girlen sayı carpım\bin\Debug\net6.0\girlen sayı carpım.runtimeconfig.json
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\girlen sayı carpım\girlen sayı carpım\bin\Debug\net6.0\girlen sayı carpım.dll
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\girlen sayı carpım\girlen sayı carpım\bin\Debug\net6.0\girlen sayı carpım.pdb
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\girlen sayı carpım\girlen sayı carpım\obj\Debug\net6.0\girlen sayı carpım.csproj.AssemblyReference.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\girlen sayı carpım\girlen sayı carpım\obj\Debug\net6.0\girlen sayı carpım.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\girlen sayı carpım\girlen sayı carpım\obj\Debug\net6.0\girlen sayı carpım.AssemblyInfoInputs.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\girlen sayı carpım\girlen sayı carpım\obj\Debug\net6.0\girlen sayı carpım.AssemblyInfo.cs
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\girlen sayı carpım\girlen sayı carpım\obj\Debug\net6.0\girlen sayı carpım.csproj.CoreCompileInputs.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\girlen sayı carpım\girlen sayı carpım\obj\Debug\net6.0\girlen sayı carpım.dll
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\girlen sayı carpım\girlen sayı carpım\obj\Debug\net6.0\refint\girlen sayı carpım.dll
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\girlen sayı carpım\girlen sayı carpım\obj\Debug\net6.0\girlen sayı carpım.pdb
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\girlen sayı carpım\girlen sayı carpım\obj\Debug\net6.0\girlen sayı carpım.genruntimeconfig.cache
+C:\Users\orcun\OneDrive\Masaüstü\c# sınav\girlen sayı carpım\girlen sayı carpım\obj\Debug\net6.0\ref\girlen sayı carpım.dll

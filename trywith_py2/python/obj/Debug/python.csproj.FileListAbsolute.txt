@@ -1,0 +1,12 @@
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# real\python\python\bin\Debug\python.exe.config
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# real\python\python\bin\Debug\python.exe
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# real\python\python\bin\Debug\python.pdb
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# real\python\python\obj\Debug\python.csproj.AssemblyReference.cache
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# real\python\python\obj\Debug\python.csproj.SuggestedBindingRedirects.cache
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# real\python\python\obj\Debug\python.Form1.resources
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# real\python\python\obj\Debug\python.Properties.Resources.resources
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# real\python\python\obj\Debug\python.csproj.GenerateResource.cache
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# real\python\python\obj\Debug\python.csproj.CoreCompileInputs.cache
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# real\python\python\obj\Debug\python.exe
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# real\python\python\obj\Debug\python.pdb
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# real\python\python\obj\Debug\MyApplication.Form1.resources

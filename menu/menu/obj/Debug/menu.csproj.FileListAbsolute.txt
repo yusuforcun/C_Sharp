@@ -1,0 +1,11 @@
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\menu\menu\bin\Debug\menu.exe.config
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\menu\menu\bin\Debug\menu.exe
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\menu\menu\bin\Debug\menu.pdb
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\menu\menu\obj\Debug\menu.csproj.AssemblyReference.cache
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\menu\menu\obj\Debug\menu.csproj.SuggestedBindingRedirects.cache
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\menu\menu\obj\Debug\menu.Form1.resources
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\menu\menu\obj\Debug\menu.Properties.Resources.resources
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\menu\menu\obj\Debug\menu.csproj.GenerateResource.cache
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\menu\menu\obj\Debug\menu.csproj.CoreCompileInputs.cache
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\menu\menu\obj\Debug\menu.exe
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\menu\menu\obj\Debug\menu.pdb

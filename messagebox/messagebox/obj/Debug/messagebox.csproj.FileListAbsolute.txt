@@ -1,0 +1,11 @@
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\messagebox\messagebox\bin\Debug\messagebox.exe.config
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\messagebox\messagebox\bin\Debug\messagebox.exe
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\messagebox\messagebox\bin\Debug\messagebox.pdb
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\messagebox\messagebox\obj\Debug\messagebox.csproj.AssemblyReference.cache
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\messagebox\messagebox\obj\Debug\messagebox.csproj.SuggestedBindingRedirects.cache
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\messagebox\messagebox\obj\Debug\messagebox.Form1.resources
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\messagebox\messagebox\obj\Debug\messagebox.Properties.Resources.resources
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\messagebox\messagebox\obj\Debug\messagebox.csproj.GenerateResource.cache
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\messagebox\messagebox\obj\Debug\messagebox.csproj.CoreCompileInputs.cache
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\messagebox\messagebox\obj\Debug\messagebox.exe
+C:\Users\orcun\OneDrive\Masaüstü\CODE\c# try\messagebox\messagebox\obj\Debug\messagebox.pdb

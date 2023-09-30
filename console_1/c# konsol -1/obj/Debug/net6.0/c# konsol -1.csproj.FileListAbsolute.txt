@@ -1,0 +1,5 @@
+C:\Users\orcun\OneDrive\Masaüstü\bionluk proje\c# konsol -1\c# konsol -1\obj\Debug\net6.0\c# konsol -1.csproj.AssemblyReference.cache
+C:\Users\orcun\OneDrive\Masaüstü\bionluk proje\c# konsol -1\c# konsol -1\obj\Debug\net6.0\c# konsol -1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orcun\OneDrive\Masaüstü\bionluk proje\c# konsol -1\c# konsol -1\obj\Debug\net6.0\c# konsol -1.AssemblyInfoInputs.cache
+C:\Users\orcun\OneDrive\Masaüstü\bionluk proje\c# konsol -1\c# konsol -1\obj\Debug\net6.0\c# konsol -1.AssemblyInfo.cs
+C:\Users\orcun\OneDrive\Masaüstü\bionluk proje\c# konsol -1\c# konsol -1\obj\Debug\net6.0\c# konsol -1.csproj.CoreCompileInputs.cache

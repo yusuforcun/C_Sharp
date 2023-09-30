@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "girlen sayı carpım/1.0.0": {
+        "runtime": {
+          "girlen sayı carpım.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "girlen sayı carpım/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
